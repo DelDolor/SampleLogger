@@ -1,0 +1,14 @@
+[
+    {
+        "datetime": "2023-06-13 21:54:40,510",
+        "product": "sampler",
+        "operation": "login",
+        "user": "john.smith@sampler.com"
+    },
+    {
+        "datetime": "2023-06-13 22:24:30,210",
+        "product": "sampler",
+        "operation": "login",
+        "user": "jane.doe@sampler.com"
+    }
+]

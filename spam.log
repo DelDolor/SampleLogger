@@ -1,17 +1,12 @@
-2023-06-13 21:54:40,510 - SampleLogger - INFO - a. creating an instance of auxiliary_module.Auxiliary
-2023-06-13 21:54:40,510 - SampleLogger.xx.Auxiliary - INFO - 1. creating an instance of Auxiliary
-2023-06-13 21:54:40,510 - SampleLogger - INFO - b. created an instance of auxiliary_module.Auxiliary
-2023-06-13 21:54:40,510 - SampleLogger - INFO - c. calling auxiliary_module.Auxiliary.do_something
-2023-06-13 21:54:40,510 - SampleLogger.xx.Auxiliary - INFO - 2. doing something
-2023-06-13 21:54:40,510 - SampleLogger.xx.Auxiliary - WARNING - 2.1 be carefull..
-2023-06-13 21:54:40,510 - SampleLogger.xx.Auxiliary - ERROR - 2.2 somtehing went wrong
-2023-06-13 21:54:40,510 - SampleLogger.xx.Auxiliary - INFO - 3. done doing something
-2023-06-13 21:54:40,510 - SampleLogger - INFO - d. finished auxiliary_module.Auxiliary.do_something
-2023-06-13 21:54:40,510 - SampleLogger - INFO - e. calling auxiliary_module.some_function()
-2023-06-13 21:54:40,510 - SampleLogger.xx - INFO - 4. received a call to "some_function"
-2023-06-13 21:54:40,510 - SampleLogger - INFO - f. done with auxiliary_module.some_function()
-2023-06-13 21:57:02,972 - SampleLogger - INFO - a. creating an instance of auxiliary_module.Auxiliary
-2023-06-13 21:57:02,972 - SampleLogger.xx.Auxiliary - INFO - 1. creating an instance of Auxiliary
-2023-06-13 21:57:02,972 - SampleLogger - INFO - b. created an instance of auxiliary_module.Auxiliary
-2023-06-13 21:57:02,972 - SampleLogger - INFO - c. calling auxiliary_module.Auxiliary.do_something
-2023-06-13 21:57:02,972 - SampleLogger.xx.Auxiliary - INFO - 2. doing something
+2023-06-14 21:34:03,875 - SampleLogger - INFO - a. creating an instance of auxiliary_module.Auxiliary
+2023-06-14 21:34:03,875 - SampleLogger.xx.Auxiliary - INFO - 1. creating an instance of Auxiliary
+2023-06-14 21:34:03,875 - SampleLogger - INFO - b. created an instance of auxiliary_module.Auxiliary
+2023-06-14 21:34:03,875 - SampleLogger - INFO - c. calling auxiliary_module.Auxiliary.do_something
+2023-06-14 21:34:03,875 - SampleLogger.xx.Auxiliary - INFO - 2. doing something
+2023-06-14 21:34:03,875 - SampleLogger.xx.Auxiliary - WARNING - 2.1 be carefull..
+2023-06-14 21:34:03,875 - SampleLogger.xx.Auxiliary - ERROR - 2.2 something went wrong
+2023-06-14 21:34:03,875 - SampleLogger.xx.Auxiliary - INFO - 3. done doing something
+2023-06-14 21:34:03,875 - SampleLogger - INFO - d. finished auxiliary_module.Auxiliary.do_something
+2023-06-14 21:34:03,875 - SampleLogger - INFO - e. calling auxiliary_module.some_function()
+2023-06-14 21:34:03,875 - SampleLogger.xx - INFO - 4. received a call to "some_function"
+2023-06-14 21:34:03,875 - SampleLogger - INFO - f. done with auxiliary_module.some_function()
